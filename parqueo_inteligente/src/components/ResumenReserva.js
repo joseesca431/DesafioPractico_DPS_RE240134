@@ -45,7 +45,7 @@ function ResumenReserva({tiempoReserva, espaciosReservados, total, onCancelarRes
                 </>
             ) : (
                 <div className="alert alert-info">
-                    No ha seleccionado ningún espacio de estacionamiento.
+                    No ha seleccionado ningún espacio de estacionamiento del parking.
                 </div>
             )}
         </div>
