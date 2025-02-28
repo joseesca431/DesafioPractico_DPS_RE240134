@@ -1,4 +1,7 @@
-Materia: DPS Docente: Karens Lorena Medrano Estudiante: José Fernando Rodríguez Escamilla Código: RE240134
+Materia: DPS
+Docente: Karens Lorena Medrano Estudiante: 
+José Fernando Rodríguez Escamilla 
+Código: RE240134
 
 Descripción del proyecto: Desarrollar una aplicación en Next.js con UseState y Bootstrap para gestionar la reserva de estacionamientos en un parqueo inteligente, permitiendo a los usuarios seleccionar un espacio disponible y ver un resumen de su reserva. Requerimientos:
 
